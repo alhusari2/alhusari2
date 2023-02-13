@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dian Alhusari. I am an undergraduate Mathematics student in University of Brawijaya and have high enthusiasm on big data science
-- 👀 I’m interested in Big Data, Machine learning, and Data Scientist
+- 👀 I’m interested in Big Data, Machine learning or AI, and Data Scientist
 - 🌱 I’m currently learning data science, and machine learning
 - 💞️ I’m looking to collaborate studying 
 - 📫 u can reach me in email : alhusari2@gmail.com or linkedin : www.linkedin.com/in/dianalhusari

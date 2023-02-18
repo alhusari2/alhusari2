@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dian Alhusari. I am an undergraduate Mathematics student in University of Brawijaya and have high enthusiasm on big data science an now im machine learning student at Bangkit Academy 2023
 - 👀 I’m interested in Big Data, Machine learning or AI, and Data Scientist
 - 🌱 I’m currently learning machine learning, tensorflow 
-- 💞️ I’m looking to collaborate studying 
+- 💞️ I’m looking to collaborate studying or project
 - 📫 u can reach me in email : alhusari2@gmail.com or linkedin : www.linkedin.com/in/dianalhusari
 
 <!---

@@ -2,7 +2,7 @@
 - 👀 I’m interested in Big Data, Machine learning or AI, and Data Scientist
 - 🌱 I’m currently learning machine learning, tensorflow 
 - 💞️ I’m looking to collaborate studying or project
-- 📫 u can reach me in email : alhusari2@gmail.com or [Linkedin](www.linkedin.com/in/dianalhusari).
+- 📫 u can reach me in email : alhusari2@gmail.com or [Linkedin](https://www.linkedin.com/in/dianalhusari/).
 
 ### Github Statistic
 <p align="left">

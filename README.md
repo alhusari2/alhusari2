@@ -1,5 +1,5 @@
-Cuman belajar aja bang jangan di bully
-email : alhusari2@gmail.com or [Linkedin](https://www.linkedin.com/in/dianalhusari/).
+Cuman belajar aja bang jangan di bully, 
+mending konek ke ane email : alhusari2@gmail.com or [Linkedin](https://www.linkedin.com/in/dianalhusari/).
 
 ### Github Statistic
 <p align="left">

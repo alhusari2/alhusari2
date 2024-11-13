@@ -10,7 +10,7 @@ mending konek ke ane email : alhusari2@gmail.com or [Linkedin](https://www.linke
 </p>
 
 ### Ma Leetcode
-![] (https://leetcard.jacoblin.cool/docxtrin?theme=dark&font=Noto%20Sans%20Pahawh%20Hmong&ext=activity)
+![](https://leetcard.jacoblin.cool/docxtrin?theme=dark&font=Noto%20Sans%20Pahawh%20Hmong&ext=activity)
 <!---
 alhusari2/alhusari2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
